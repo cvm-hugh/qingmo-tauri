@@ -1,0 +1,9 @@
+{
+  "name": "轻墨",
+  "short_name": "轻墨",
+  "description": "Markdown 实时预览编辑器",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#6366f1"
+}
