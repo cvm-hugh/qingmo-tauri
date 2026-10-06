@@ -2537,7 +2537,7 @@ dependencies = [
 
 [[package]]
 name = "qingmo"
-version = "1.0.0"
+version = "2.3.19"
 dependencies = [
  "serde",
  "serde_json",

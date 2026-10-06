@@ -1,6 +1,6 @@
 {
   "name": "qingmo",
-  "version": "1.0.0",
+  "version": "2.3.19",
   "private": true,
   "scripts": {
     "dev": "tauri dev",
